@@ -1,11 +1,13 @@
 import './App.css'
 import Block from "./block/Block.tsx";
+import Footer from "./footer/Footer.tsx";
 
 function App() {
 
   return (
     <>
-      <Block />
+        <Block />
+        <Footer />
     </>
   )
 }

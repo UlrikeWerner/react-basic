@@ -16,7 +16,6 @@ export default function Block(){
                 <ListComponent />
                 <QuoteComponent />
             </div>
-
         </div>
     )
 }
