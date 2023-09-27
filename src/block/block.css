@@ -1,0 +1,23 @@
+h2 {
+    font-size: 2rem;
+    margin: 1rem 0 0 0;
+}
+
+.body {
+    margin: 1rem;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+}
+
+.center {
+    text-align: center;
+}
+
+.grid-list {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: 5% 1fr 1fr 5%;
+    grid-template-rows: 1fr;
+    grid-gap: 5rem;
+}
